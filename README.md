@@ -21,8 +21,7 @@
 <div align="center" style="display: inline_block">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
-<img alt="VSCODE" src="https://img.shields.io/badge/VSCode-02458D?style=for-the-badge" />
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge" />
 </div>
 <br>
 <br>
