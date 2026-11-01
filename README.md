@@ -53,7 +53,7 @@ Se permite el uso, copia y distribución de este proyecto, siempre y cuando se m
 Copyright (c) 2026 at Odra Sanchez. Enlace del perfil:
 <div align="center" style="display: inline_block">
   
-<a href="https://github.com/odrasanchezdev">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://github.com/odrasanchez">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 </div>
 <br>
 
